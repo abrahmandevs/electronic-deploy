@@ -41,15 +41,14 @@ ___
 
 # Contact us By :
 
-### ⇢ [Gmail](gmail)
-### ⇢ [Facebook](facebook)
-### ⇢ [Twitter](twitter)
-### ⇢ [Linkedin](linkedin)
+### ⇢ [Facebook](https://web.facebook.com/arrahman47/)
+### ⇢ [Twitter](https://twitter.com/AR_Rahman47)
+### ⇢ [Linkedin](https://www.linkedin.com/in/arrahman73/)
+### ⇢ Gmail : arr47009@gmail.com
 
 
 
-<!-- all social links -->
-[gmail]: arr47009@gmail.com
-[facebook]: https://web.facebook.com/arrahman47/
-[twitter]: https://twitter.com/AR_Rahman47
-[linkedin]: https://web.facebook.com/arrahman47/
+<!-- all social links 
+[gmail]:(arr47009@gmail.com)
+[facebook] : (https://web.facebook.com/arrahman47/)
+[twitter]: https://twitter.com/AR_Rahman47-->
