@@ -39,13 +39,13 @@ ___
 
 <br>
 
-# Work History : 🔗
+## Work History : 🔗
 
 ### 💻 [electro-theme.netlify.app](https://electro-theme.netlify.app/)
 
 <br>
 
-# Contact us By :
+## Contact us By :
 
 ### ⇢ [Facebook](https://web.facebook.com/arrahman47/)
 ### ⇢ [Twitter](https://twitter.com/AR_Rahman47)
