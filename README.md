@@ -41,7 +41,7 @@ ___
 
 # Work History : 🔗
 
-### 💻 [electro-theme.netlify.app]([https://web.facebook.com/arrahman47/](https://electro-theme.netlify.app/)
+### 💻 [electro-theme.netlify.app](https://electro-theme.netlify.app/)
 
 <br>
 
