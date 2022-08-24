@@ -41,7 +41,7 @@
 
 ## Work History : 🔗
 
-### 💻 [electro-theme.netlify.app](https://electro-theme.netlify.app/)
+### &#9729; [electro-theme.netlify.app](https://electro-theme.netlify.app/)
 
 <br>
 
