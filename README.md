@@ -1,10 +1,6 @@
 # Electronic store e-commerce Theme Made By AR Rahman
 
 <br>
-<br>
-<br>
-<br>
-
 
 ## Programing languages and freamworks
 1. HTML
